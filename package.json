@@ -1,0 +1,13 @@
+{
+  "name": "my-youtube-converter",
+  "version": "1.0.0",
+  "description": "A YouTube video converter application",
+  "main": "index.php",
+  "scripts": {
+    "build": "echo 'No build process needed for PHP application'",
+    "start": "php -S localhost:8000"
+  },
+  "keywords": ["youtube", "converter", "php"],
+  "author": "",
+  "license": "ISC"
+}
