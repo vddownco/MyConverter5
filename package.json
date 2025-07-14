@@ -5,7 +5,7 @@
   "main": "index.php",
   "scripts": {
     "build": "echo 'No build process needed for PHP application'",
-    "start": "php -S localhost:8000"
+    "start": "echo 'PHP server cannot be started in WebContainer environment. This is a PHP application that needs to be run on a server with PHP support.'"
   },
   "keywords": ["youtube", "converter", "php"],
   "author": "",
